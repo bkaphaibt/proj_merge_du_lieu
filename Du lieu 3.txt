@@ -1,1 +1,3 @@
-﻿Đây là dữ liệu của file Du lieu 3.txt ở nhánh main
+﻿﻿Đây là dữ liệu của file Du lieu 3.txt ở nhánh main
+﻿Nội dung file Du lieu 3.txt
+
